@@ -74,3 +74,21 @@ body {
 ul {
     padding-left: 25px;
 }
+
+.project-links {
+    margin-top: 12px;
+}
+
+.project-links a {
+    display: inline-block;
+    padding: 8px 14px;
+    background-color: #0f172a;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+.project-links a:hover {
+    background-color: #1e3a8a;
+}
